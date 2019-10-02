@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CountRangeSum.java" afterDir="false" />
+    <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="BST Solotion of 327. Count of Range Sum">
+      <change afterPath="$PROJECT_DIR$/src/DesignTic_Tac_Toe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reader4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountRangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountRangeSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,18 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumTimeDifference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestStringChain.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,47 +85,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountRangeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+            <state relative-caret-position="-591">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding>
-                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EncodeandDecodeTinyUrl.java">
+        <entry file="file://$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConsecutiveNumbersSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DesignTic_Tac_Toe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="1" lean-forward="true" selection-end-line="61" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reader4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#56#57#0" expanded="true" />
+                <element signature="e#79#80#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubdomainVisitCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EmployeeFreeTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -162,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/serializeanddeserializebinarytree.java" />
-        <option value="$PROJECT_DIR$/src/serializeanddeserializeNarytree.java" />
-        <option value="$PROJECT_DIR$/src/encodenarytreetobinarytree.java" />
-        <option value="$PROJECT_DIR$/src/textjustification.java" />
         <option value="$PROJECT_DIR$/src/twosumlessthanK.java" />
         <option value="$PROJECT_DIR$/src/basiccalculator.java" />
         <option value="$PROJECT_DIR$/src/expressionaddpertators.java" />
@@ -213,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java" />
         <option value="$PROJECT_DIR$/src/CountofsmallerNumbersAfterSelf.java" />
         <option value="$PROJECT_DIR$/src/CountRangeSum.java" />
+        <option value="$PROJECT_DIR$/src/Reader4.java" />
+        <option value="$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java" />
+        <option value="$PROJECT_DIR$/src/ConsecutiveNumbersSum.java" />
+        <option value="$PROJECT_DIR$/src/DesignTic_Tac_Toe.java" />
       </list>
     </option>
   </component>
@@ -223,8 +224,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="218" />
+    <option name="x" value="275" />
+    <option name="y" value="267" />
     <option name="width" value="1260" />
     <option name="height" value="711" />
   </component>
@@ -356,7 +357,7 @@
       <workItem from="1569350946539" duration="6074000" />
       <workItem from="1569454431005" duration="7116000" />
       <workItem from="1569628936652" duration="19501000" />
-      <workItem from="1569827600330" duration="18041000" />
+      <workItem from="1569827600330" duration="22616000" />
     </task>
     <task id="LOCAL-00001" summary="try commit">
       <created>1569898508879</created>
@@ -379,17 +380,31 @@
       <option name="project" value="LOCAL" />
       <updated>1569918925586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="BST Solotion of 327. Count of Range Sum">
+      <created>1569978084431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569978084431</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)">
+      <created>1569984994501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569984994501</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="723562000" />
+    <option name="totallyTimeSpent" value="728137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="218" width="1260" height="711" extended-state="0" />
+    <frame x="275" y="267" width="1260" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31034482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31034482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,7 +421,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073636" side_tool="true" weight="0.37989557" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32956383" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3279483" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3279483" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -458,7 +473,9 @@
     <MESSAGE value="try commit" />
     <MESSAGE value="update 1 new file" />
     <MESSAGE value="472" />
-    <option name="LAST_COMMIT_MESSAGE" value="472" />
+    <MESSAGE value="BST Solotion of 327. Count of Range Sum" />
+    <MESSAGE value="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,55 +494,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/findduplicatefileinsystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cherrypickup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-          <folding>
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validperfectsquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sqrtx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/spiltarraylargestsum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -884,11 +852,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountRangeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        <state relative-caret-position="-591">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Read4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reader4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#79#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConsecutiveNumbersSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignTic_Tac_Toe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="1" lean-forward="true" selection-end-line="61" selection-end-column="1" />
         </state>
       </provider>
     </entry>

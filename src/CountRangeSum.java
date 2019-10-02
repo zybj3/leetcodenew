@@ -52,7 +52,7 @@ public class CountRangeSum {
         }
     }
 
-    public int getBound(Node root, long lower, long upper){
+    public int getBound(Node root, long lower, long upper) {
         // if(root==null){
         //     return 0;
         // }
@@ -64,7 +64,7 @@ public class CountRangeSum {
 
 
     public int countRangeSum(int[] nums, int lower, int upper) {
-        if(nums.length == 0) {
+        if (nums.length == 0) {
             return 0;
         }
 
@@ -79,10 +79,10 @@ public class CountRangeSum {
         Node root = new Node(0);
         // root = insert(root, sum);
 
-        for (int i = 0; i<nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
-            System.out.println((sum-upper) + " " + (sum-lower));
-            int count = getBound(root, sum-upper, sum-lower);
+            System.out.println((sum - upper) + " " + (sum - lower));
+            int count = getBound(root, sum - upper, sum - lower);
             System.out.println(count);
             root = insert(root, sum);
             res += count;
