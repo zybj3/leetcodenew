@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="BST Solotion of 327. Count of Range Sum">
-      <change afterPath="$PROJECT_DIR$/src/DesignTic_Tac_Toe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reader4.java" afterDir="false" />
+    <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountRangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountRangeSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,18 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LongestStringChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Interval_List_Intersections.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DesignTic_Tac_Toe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="1" lean-forward="true" selection-end-line="61" selection-end-column="1" />
+            <state relative-caret-position="-606">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dividetwointegers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -225,7 +218,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="275" />
-    <option name="y" value="267" />
+    <option name="y" value="186" />
     <option name="width" value="1260" />
     <option name="height" value="711" />
   </component>
@@ -357,7 +350,7 @@
       <workItem from="1569350946539" duration="6074000" />
       <workItem from="1569454431005" duration="7116000" />
       <workItem from="1569628936652" duration="19501000" />
-      <workItem from="1569827600330" duration="22616000" />
+      <workItem from="1569827600330" duration="23361000" />
     </task>
     <task id="LOCAL-00001" summary="try commit">
       <created>1569898508879</created>
@@ -394,14 +387,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569984994501</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Design Tic Tac Toe">
+      <created>1569997285719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569997285719</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="728137000" />
+    <option name="totallyTimeSpent" value="728882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="267" width="1260" height="711" extended-state="0" />
+    <frame x="275" y="186" width="1260" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31034482" />
@@ -475,7 +475,8 @@
     <MESSAGE value="472" />
     <MESSAGE value="BST Solotion of 327. Count of Range Sum" />
     <MESSAGE value="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)" />
+    <MESSAGE value="Design Tic Tac Toe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design Tic Tac Toe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,13 +495,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/spiltarraylargestsum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TheSkylineProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -893,8 +887,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DesignTic_Tac_Toe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="1" lean-forward="true" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="-606">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dividetwointegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>

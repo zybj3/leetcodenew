@@ -11,16 +11,18 @@ public class dividetwointegers {
             flag++;
         }
 
-        int m = Math.abs(dividend);
-        int n = Math.abs(divisor);
+        long m = Math.abs((long)dividend);
+        long n = Math.abs((long)divisor);
         int res = 0;
 
         if (m<n){
             return res;
         }
 
+        System.out.println(m);
+
         while (m>=n){
-            int temp = n;
+            long temp = n;
             int count = 1;
             while (m>(temp<<1)){
                 temp <<= 1;
