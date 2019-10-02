@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FractiontoRecurringDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,15 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interval_List_Intersections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestRepeatingCharaterReplacement.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +103,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dividetwointegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="365">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FractiontoRecurringDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/twosumlessthanK.java" />
-        <option value="$PROJECT_DIR$/src/basiccalculator.java" />
         <option value="$PROJECT_DIR$/src/expressionaddpertators.java" />
         <option value="$PROJECT_DIR$/src/snakesandladders.java" />
         <option value="$PROJECT_DIR$/src/NestedIterator.java" />
@@ -207,6 +209,8 @@
         <option value="$PROJECT_DIR$/src/ReadNCharactersGivenRead4.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveNumbersSum.java" />
         <option value="$PROJECT_DIR$/src/DesignTic_Tac_Toe.java" />
+        <option value="$PROJECT_DIR$/src/dividetwointegers.java" />
+        <option value="$PROJECT_DIR$/src/FractiontoRecurringDecimal.java" />
       </list>
     </option>
   </component>
@@ -217,8 +221,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="275" />
-    <option name="y" value="186" />
+    <option name="x" value="263" />
+    <option name="y" value="459" />
     <option name="width" value="1260" />
     <option name="height" value="711" />
   </component>
@@ -350,7 +354,7 @@
       <workItem from="1569350946539" duration="6074000" />
       <workItem from="1569454431005" duration="7116000" />
       <workItem from="1569628936652" duration="19501000" />
-      <workItem from="1569827600330" duration="23361000" />
+      <workItem from="1569827600330" duration="25026000" />
     </task>
     <task id="LOCAL-00001" summary="try commit">
       <created>1569898508879</created>
@@ -394,14 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569997285719</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="divide two integers (using long to cover corner cases)">
+      <created>1569998306850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569998306850</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="728882000" />
+    <option name="totallyTimeSpent" value="730547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="186" width="1260" height="711" extended-state="0" />
+    <frame x="263" y="459" width="1260" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31034482" />
@@ -476,7 +487,8 @@
     <MESSAGE value="BST Solotion of 327. Count of Range Sum" />
     <MESSAGE value="Consecutive Number Sum (等差数列枚举法) 复杂度sqrt(N)" />
     <MESSAGE value="Design Tic Tac Toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Tic Tac Toe" />
+    <MESSAGE value="divide two integers (using long to cover corner cases)" />
+    <option name="LAST_COMMIT_MESSAGE" value="divide two integers (using long to cover corner cases)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,17 +507,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TheSkylineProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#1479#1480#0" expanded="true" />
-            <element signature="e#1525#1526#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binarytreemaximumpathsum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -894,8 +895,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dividetwointegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="365">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FractiontoRecurringDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
