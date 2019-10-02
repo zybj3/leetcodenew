@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53de8b74-3803-424e-9135-5e982fb069bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountRangeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LongestRepeatingCharaterReplacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LongestRepeatingCharaterReplacement.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,24 +32,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/longestIncreasingPathinaMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringtoInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinimumTimeDifference.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
@@ -78,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/Interval_List_Intersections.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -87,18 +68,39 @@
         <entry file="file://$PROJECT_DIR$/src/LongestRepeatingCharaterReplacement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountofsmallerNumbersAfterSelf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java">
+        <entry file="file://$PROJECT_DIR$/src/CountRangeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="702">
+              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,8 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/permutations2.java" />
-        <option value="$PROJECT_DIR$/src/mock1.java" />
         <option value="$PROJECT_DIR$/src/serializeanddeserializebinarytree.java" />
         <option value="$PROJECT_DIR$/src/serializeanddeserializeNarytree.java" />
         <option value="$PROJECT_DIR$/src/encodenarytreetobinarytree.java" />
@@ -211,6 +211,8 @@
         <option value="$PROJECT_DIR$/src/Interval_List_Intersections.java" />
         <option value="$PROJECT_DIR$/src/LongestRepeatingCharaterReplacement.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java" />
+        <option value="$PROJECT_DIR$/src/CountofsmallerNumbersAfterSelf.java" />
+        <option value="$PROJECT_DIR$/src/CountRangeSum.java" />
       </list>
     </option>
   </component>
@@ -221,8 +223,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="372" />
-    <option name="y" value="131" />
+    <option name="x" value="292" />
+    <option name="y" value="218" />
     <option name="width" value="1260" />
     <option name="height" value="711" />
   </component>
@@ -278,14 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestRepeatingCharaterReplacement">
-    <configuration name="LongestRepeatingCharaterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestRepeatingCharaterReplacement" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LongestStringChain">
     <configuration name="LongestStringChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestStringChain" />
       <module name="leetcode" />
@@ -314,9 +309,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.encodenarytreetobinarytree" />
+      <item itemvalue="Application.LongestStringChain" />
+      <item itemvalue="Application.productofarrayexceptself" />
+      <item itemvalue="Application.wordbreak2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestRepeatingCharaterReplacement" />
         <item itemvalue="Application.LongestStringChain" />
         <item itemvalue="Application.encodenarytreetobinarytree" />
         <item itemvalue="Application.wordbreak2" />
@@ -356,7 +356,7 @@
       <workItem from="1569350946539" duration="6074000" />
       <workItem from="1569454431005" duration="7116000" />
       <workItem from="1569628936652" duration="19501000" />
-      <workItem from="1569827600330" duration="7232000" />
+      <workItem from="1569827600330" duration="18041000" />
     </task>
     <task id="LOCAL-00001" summary="try commit">
       <created>1569898508879</created>
@@ -365,14 +365,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569898508879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update 1 new file">
+      <created>1569901611638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569901611638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="472">
+      <created>1569918925586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569918925586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="712753000" />
+    <option name="totallyTimeSpent" value="723562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="463" y="310" width="1260" height="711" extended-state="0" />
+    <frame x="292" y="218" width="1260" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31034482" />
@@ -391,8 +405,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073636" side_tool="true" weight="0.37989557" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32956383" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3279483" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32956383" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3279483" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -442,7 +456,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="try commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="try commit" />
+    <MESSAGE value="update 1 new file" />
+    <MESSAGE value="472" />
+    <option name="LAST_COMMIT_MESSAGE" value="472" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,23 +477,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/expressionaddpertators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reconstructitinerary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/findduplicatefileinsystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -855,23 +854,40 @@
     <entry file="file://$PROJECT_DIR$/src/Interval_List_Intersections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestRepeatingCharaterReplacement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestSubstringwithAtMostTwoDistinceCharaters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountofsmallerNumbersAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountRangeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
